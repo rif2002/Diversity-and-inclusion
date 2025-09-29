@@ -55,8 +55,8 @@ The analysis provides **HR and Executive leadership** with critical, data-driven
 
 ## 🖼️ Dashboard Visualization  
 
-![Diversity & Inclusion Dashboard 1](Diversity and Inclusion_page-0001.jpg)  
-![Diversity & Inclusion Dashboard 2](Diversity and Inclusion_page-0002.jpg) 
+![Diversity and Inclusion Dashboard 1](Diversity and Inclusion_page-0001.jpg)  
+![Diversity and Inclusion Dashboard 2](Diversity and Inclusion_page-0002.jpg) 
 
 ## 📂 How to Use This Repository
 
