@@ -57,3 +57,9 @@ The analysis provides **HR and Executive leadership** with critical, data-driven
 
 ![Diversity & Inclusion Dashboard 1](Diversity and Inclusion_page-0001.jpg)  
 ![Diversity & Inclusion Dashboard 2](Diversity and Inclusion_page-0002.jpg) 
+
+## 📂 How to Use This Repository
+
+- The **Power BI dashboard** is available in the repository (`.pbix` file or PDF export).  
+- Clone or download the repo to explore the report.  
+- Open the dashboard in **Power BI Desktop** or view the exported PDF for insights.  
