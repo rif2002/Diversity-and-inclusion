@@ -8,7 +8,7 @@ The analysis provides **HR and Executive leadership** with critical, data-driven
 - **Tool Used:** Microsoft Power BI  
 - **Dataset:** Workforce dataset provided by PwC (Forage Virtual Internship)  
 
----
+ 
 
 ## 🎯 Key Objectives  
 - **Analyze Workforce Distribution:** Assess gender and age balance across all job levels.  
@@ -16,7 +16,7 @@ The analysis provides **HR and Executive leadership** with critical, data-driven
 - **Evaluate Executive Balance:** Track Executive Gender Balance and measure effectiveness of D&I initiatives.  
 - **Provide Actionable Insights:** Highlight structural inequities to drive policy change and inclusivity.  
 
----
+ 
 
 ## 🔍 Exploratory Data Analysis (EDA) & Key Findings  
 
@@ -34,7 +34,7 @@ The analysis provides **HR and Executive leadership** with critical, data-driven
 - **Hiring Gaps:** Female hires underrepresented at **Director (14% Female)** and **Manager (37% Female)** roles.  
 - **Turnover Risk:** Highest turnover in **Senior Director (3.67)** and **Executive (3.25)** levels, posing retention risks at critical positions.  
 
----
+ 
 
 ## 🏆 Recommendations  
 
@@ -51,7 +51,7 @@ The analysis provides **HR and Executive leadership** with critical, data-driven
 - **Hiring Equity:**  
   Set measurable targets to increase female hires in **Manager** and **Director** roles.  
 
----
+ 
 
 ## 🖼️ Dashboard Visualization  
 
